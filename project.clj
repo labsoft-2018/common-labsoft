@@ -14,6 +14,7 @@
                  [org.clojure/core.async "0.4.474"]
                  [metosin/schema-tools "0.9.1"]
                  [buddy "2.0.0"]
+                 [clojurewerkz/elastisch "3.0.0"]
                  [com.stuartsierra/component "0.3.2"]
                  [io.pedestal/pedestal.service "0.5.3"]
                  [io.pedestal/pedestal.jetty "0.5.3"]
