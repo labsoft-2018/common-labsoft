@@ -6,6 +6,7 @@
     "bucket-name": "labsoft-secrets",
     "region": "us-east-1"
   },
+  "elastic-endpoint": "http://localhost:9200",
   "pub-key-path": "test/pubkey.pem",
   "priv-key-path": "test/privkey.pem"
 }
